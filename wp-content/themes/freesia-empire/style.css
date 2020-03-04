@@ -300,7 +300,7 @@ a:focus {
 ================================================== */
 #page {
 	width: 100%;
-	background-color: #fff;
+	background-color: #ffff;
 }
 .container {
 	margin: 0 auto;
@@ -382,8 +382,8 @@ a:focus {
 
 /* ----- Default Button ----- */
 .btn-default {
-	color: #484848;
-	font-family: 'Roboto', sans-serif;
+	color: #0000;
+	font-family: 'Calibri', sans-serif;
 	font-weight: normal;
 	display: inline-block;
 	text-align: center;
@@ -400,8 +400,8 @@ a:focus {
 	transition: all 0.3s ease 0s;
 }
 .btn-default:hover {
-	background-color: #6897e5;
-	border: 1px solid #6897e5; 
+	background-color: #ffdef0;
+	border: 1px solid #ffdef0; 
 	color: #fff;
 }
 .light {
@@ -415,9 +415,9 @@ a:focus {
     color: #fff;
 }
 .vivid {
-	background-color: #6897e5;
-	border: 1px solid #6897e5;
-	color: #fff;
+	background-color: #ffdef0;
+	border: 1px solid #0000;
+	color: #0000;
 }
 .light-color:hover,
 .vivid:hover {
