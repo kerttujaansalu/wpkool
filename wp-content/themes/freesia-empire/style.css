@@ -140,7 +140,7 @@ button,
 input,
 select,
 textarea {
-	color: #ffff;
+	color: #0000;
 	font: 15px 'Calibri', sans-serif;
 	line-height: 22px;
 	word-wrap: break-word;
@@ -150,7 +150,7 @@ textarea {
 
 /* ----- #Headings  ----- */
 h1, h2, h3, h4, h5, h6 {
-	color: #ffff;
+	color: #0000;
 	font-family: 'Calibri', sans-serif;
 	font-weight: normal;
 	margin-top:0;
