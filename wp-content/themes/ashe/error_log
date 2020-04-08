@@ -1,0 +1,8 @@
+[08-Apr-2020 09:16:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jaansalukerttuik/public_html/wordpress/wp-content/themes/ashe/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/jaansalukerttuik/public_html/wordpress/wp-content/themes/ashe/index.php on line 3
+[08-Apr-2020 09:16:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/jaansalukerttuik/public_html/wordpress/wp-content/themes/ashe/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/jaansalukerttuik/public_html/wordpress/wp-content/themes/ashe/index.php on line 3
